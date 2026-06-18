@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-01-25T12:38:17.859966",
+  "agent": "ResearchAgent",
+  "event": "state_validated_source_1",
+  "data": {
+    "url": "https://www.analyticsvidhya.com/blog/2024/11/langchain-vs-llamaindex/",
+    "title": "LangChain vs LlamaIndex: Comparative Guide",
+    "credibility_score": 0.7,
+    "key_insights": [
+      "Compares LangChain and LlamaIndex, two frameworks for building LLM applications",
+      "Provides an overview of both frameworks' core components and use cases"
+    ]
+  }
+}

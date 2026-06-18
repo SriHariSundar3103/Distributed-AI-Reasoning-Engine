@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-01-25T12:32:52.422401",
+  "agent": "ResearchAgent",
+  "event": "error",
+  "data": {
+    "error": "HTTP 403: https://medium.com/@pedroazevedo6/langgraph-vs-llamaindex-workflows-for-building-agents-the-final-no-bs-guide-2025-11445ef6fadc",
+    "context": "fetch",
+    "url": "https://medium.com/@pedroazevedo6/langgraph-vs-llamaindex-workflows-for-building-agents-the-final-no-bs-guide-2025-11445ef6fadc"
+  }
+}

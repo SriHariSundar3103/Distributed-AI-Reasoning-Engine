@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-01-25T12:33:21.174102",
+  "agent": "ResearchAgent",
+  "event": "state_fetched_doc_2",
+  "data": {
+    "url": "https://dev.to/naresh_007/langchain-vs-llamaindex-the-right-framework-for-the-job-not-the-hype-40jb",
+    "title": "LangChain vs. LlamaIndex: The Right Framework for the Job, Not the\u00a0Hype. - DEV Community",
+    "content_preview": "LangChain vs. LlamaIndex: The Right Framework for the Job, Not the\u00a0Hype. - DEV Community\nTL;DR\nLangChain\n\u2192 Perfect for fast prototyping, hackathons, and quick experiments. Huge community, tons of examples.\nLlamaIndex\n\u2192 Built for industry-grade use cases. Reliable, structured, and scales when things get serious.\nSmart builders?\nThey often use both LangChain for rapid iteration + LlamaIndex for production strength.\nSo I've been tinkering with GenAI for a while now, and one question keeps popping u"
+  }
+}

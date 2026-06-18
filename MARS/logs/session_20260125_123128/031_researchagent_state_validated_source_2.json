@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-01-25T12:33:21.184104",
+  "agent": "ResearchAgent",
+  "event": "state_validated_source_2",
+  "data": {
+    "url": "https://www.ibm.com/think/topics/llamaindex-vs-langchain",
+    "title": "Llamaindex vs Langchain: What's the difference? | IBM",
+    "credibility_score": 0.9,
+    "key_insights": [
+      "LlamaIndex focuses on indexing and information retrieval from text-based sources",
+      "LangChain is a versatile, modular platform supporting numerous use cases",
+      "Both platforms facilitate the creation of retrieval-augmented generation (RAG) systems",
+      "LlamaIndex is ideal for simpler workflows, while LangChain excels in building a wide range of NLP and agentic AI applications"
+    ]
+  }
+}

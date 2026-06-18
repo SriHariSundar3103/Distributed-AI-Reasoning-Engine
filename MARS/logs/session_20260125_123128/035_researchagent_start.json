@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-01-25T12:33:45.486041",
+  "agent": "ResearchAgent",
+  "event": "start",
+  "data": {
+    "topic": "LangChain vs LlamaIndex",
+    "iteration": 2
+  }
+}

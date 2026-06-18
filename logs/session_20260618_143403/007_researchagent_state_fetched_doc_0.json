@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-06-18T14:36:38.275878",
+  "agent": "ResearchAgent",
+  "event": "state_fetched_doc_0",
+  "data": {
+    "url": "https://www.truefoundry.com/blog/langchain-vs-langgraph",
+    "title": "LangChain vs LangGraph: Compare Features & Use Cases",
+    "content_preview": "LangChain vs LangGraph: Compare Features & Use Cases\nTrueFoundry recognized in Gartner Hype Cycle for Platform Engineering 2026.\nRead the full report \u2192\nJoin our VAR & VAD ecosystem \u2014 deliver enterprise AI governance across LLMs, MCPs & Agents.\nBecome a Partner \u2192\nBook Demo\nSign Up\nLogin\nGo back\nTry TrueFoundry \u2014 Live, Right Now\nGet instant access to a live TrueFoundry environment. Deploy models, route LLM traffic, and explore the full platform \u2014 your sandbox is ready in seconds, no credit card re"
+  }
+}

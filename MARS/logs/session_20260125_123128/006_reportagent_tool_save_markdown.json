@@ -1,0 +1,8 @@
+{
+  "timestamp": "2026-01-25T12:39:21.945383",
+  "agent": "ReportAgent",
+  "event": "tool_save_markdown",
+  "data": {
+    "path": "outputs\\report_LangChain vs LlamaIndex_20260125_123921.md"
+  }
+}

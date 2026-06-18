@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-01-25T12:34:48.303478",
+  "agent": "ResearchAgent",
+  "event": "state_validated_source_0",
+  "data": {
+    "url": "https://ijgis.pubpub.org/pub/6yecqicl",
+    "title": "Scalability and Performance Benchmarking of LangChain, LlamaIndex, and Haystack for Enterprise AI Customer Support Systems \u00b7 IJGIS Fall of 2024 Conference",
+    "credibility_score": 0.9,
+    "key_insights": [
+      "Compares LangChain, LlamaIndex, and Haystack for enterprise AI customer support systems",
+      "Evaluates scalability and performance of these frameworks",
+      "Published in an academic conference (IJGIS Fall 2024)"
+    ]
+  }
+}

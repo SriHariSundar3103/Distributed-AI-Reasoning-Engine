@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-01-25T12:35:21.427008",
+  "agent": "AnalysisAgent",
+  "event": "complete",
+  "data": {
+    "confidence_score": 0.75,
+    "gaps_found": 4,
+    "needs_more_research": true
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-06-18T13:38:03.748088",
+  "agent": "ResearchAgent",
+  "event": "state_fetched_doc_2",
+  "data": {
+    "url": "https://github.com/resources/articles/what-are-ai-agents",
+    "title": "What are AI agents? \u00b7 GitHub",
+    "content_preview": "What are AI agents? \u00b7 GitHub\nSkip to content\nYou signed in with another tab or window.\nReload\nto refresh your session.\nYou signed out in another tab or window.\nReload\nto refresh your session.\nYou switched accounts on another tab or window.\nReload\nto refresh your session.\nDismiss alert\nWhat are AI agents?\nAI agents are autonomous software tools that perform tasks, make decisions, and interact with their environment intelligently and rationally. They use artificial intelligence to learn, adapt, an"
+  }
+}

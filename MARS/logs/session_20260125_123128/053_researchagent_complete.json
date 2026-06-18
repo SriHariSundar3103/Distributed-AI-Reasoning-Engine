@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-01-25T12:34:48.335447",
+  "agent": "ResearchAgent",
+  "event": "complete",
+  "data": {
+    "sources_found": 20,
+    "sources_fetched": 5,
+    "sources_validated": 5
+  }
+}

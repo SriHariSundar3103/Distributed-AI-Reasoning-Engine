@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-06-18T13:33:30.081033",
+  "agent": "ResearchAgent",
+  "event": "state_validated_source_3",
+  "data": {
+    "url": "https://www.geeksforgeeks.org/artificial-intelligence/langchain-vs-langgraph",
+    "title": "LangChain vs. LangGraph - GeeksforGeeks",
+    "credibility_score": 0.3,
+    "key_insights": []
+  }
+}

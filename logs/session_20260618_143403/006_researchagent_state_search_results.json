@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-06-18T14:36:38.257932",
+  "agent": "ResearchAgent",
+  "event": "state_search_results",
+  "data": {
+    "total_found": 5,
+    "unique_urls": [
+      "https://www.geeksforgeeks.org/artificial-intelligence/langchain-vs-langgraph",
+      "https://medium.com/@tahirbalarabe2/%EF%B8%8Flangchain-vs-langgraph-a-comparative-analysis-ce7749a80d9c",
+      "https://duplocloud.com/blog/langchain-vs-langgraph",
+      "https://www.reddit.com/r/LangChain/comments/1ojwl1y/new_to_langchain_agents_langchain_vs_langgraph",
+      "https://www.truefoundry.com/blog/langchain-vs-langgraph"
+    ],
+    "fetched_count": 4,
+    "validated_count": 4
+  }
+}

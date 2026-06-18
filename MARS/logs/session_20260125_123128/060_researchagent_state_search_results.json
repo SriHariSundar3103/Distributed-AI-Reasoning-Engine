@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-01-25T12:36:49.350821",
+  "agent": "ResearchAgent",
+  "event": "state_search_results",
+  "data": {
+    "total_found": 20,
+    "unique_urls": [
+      "https://techwize.com/blog/langchain-autogen-and-beyond-tools-powering-the-next-wave-of-ai-agents",
+      "https://arxiv.org/html/2601.07136v1",
+      "https://www.analyticsvidhya.com/blog/2024/11/langchain-vs-llamaindex/",
+      "https://www.ibm.com/think/topics/llamaindex-vs-langchain",
+      "https://www.zenml.io/blog/llamaindex-vs-langchain",
+      "https://www.statsig.com/perspectives/llamaindex-vs-langchain-rag",
+      "https://smartdev.com/langchain-vs-llamaindex-fintech-ai/",
+      "https://sabaraheem357.medium.com/langchain-vs-llamaindex-which-python-framework-wins-in-2025-2d590d4c29dd?source=rss------technology-5",
+      "https://www.datacamp.com/blog/langchain-vs-llamaindex",
+      "https://kanerika.com/blogs/langchain-vs-llamaindex/"
+    ],
+    "fetched_count": 6,
+    "validated_count": 6
+  }
+}

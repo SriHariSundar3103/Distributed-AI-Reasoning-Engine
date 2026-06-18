@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-01-25T12:39:22.085983",
+  "agent": "ReportAgent",
+  "event": "complete",
+  "data": {
+    "markdown_path": "outputs\\report_LangChain vs LlamaIndex_20260125_123921.md",
+    "pdf_path": "failed",
+    "report_length": 8181
+  }
+}

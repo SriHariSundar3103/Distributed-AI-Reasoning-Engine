@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-06-18T14:36:38.277893",
+  "agent": "ResearchAgent",
+  "event": "state_fetched_doc_1",
+  "data": {
+    "url": "https://duplocloud.com/blog/langchain-vs-langgraph",
+    "title": "LangChain vs. LangGraph: A Developer\u2019s Guide to Choosing Your AI Workflow - DuploCloud",
+    "content_preview": "LangChain vs. LangGraph: A Developer\u2019s Guide to Choosing Your AI Workflow - DuploCloud\nSkip to content\nWednesday, July 30 2025\nLangChain vs. LangGraph: A Developer\u2019s Guide to Choosing Your AI Workflow\nAuthor:\nShonal\nShare\nHere at DuploCloud, we\u2019ve been navigating the tumultuous waters of AI in an effort to champion its use in automating DevOps workflows (and make using it simpler).\nThis has brought us face-to-face with some big questions about architectural components of AI-driven systems, such "
+  }
+}

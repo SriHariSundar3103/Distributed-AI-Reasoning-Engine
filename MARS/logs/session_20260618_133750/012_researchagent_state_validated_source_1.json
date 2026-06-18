@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-06-18T13:38:03.756605",
+  "agent": "ResearchAgent",
+  "event": "state_validated_source_1",
+  "data": {
+    "url": "https://www.creatio.com/glossary/ai-agents-examples",
+    "title": "AI Agent Examples Across Industries & Functions | Creatio",
+    "credibility_score": 0.3,
+    "key_insights": []
+  }
+}

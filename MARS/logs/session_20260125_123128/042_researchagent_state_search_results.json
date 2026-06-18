@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-01-25T12:34:48.253370",
+  "agent": "ResearchAgent",
+  "event": "state_search_results",
+  "data": {
+    "total_found": 20,
+    "unique_urls": [
+      "https://stackoverflow.com/questions/76990736/differences-between-langchain-llamaindex",
+      "https://www.analyticsvidhya.com/blog/2024/11/langchain-vs-llamaindex/",
+      "https://www.ibm.com/think/topics/llamaindex-vs-langchain",
+      "https://www.zenml.io/blog/llamaindex-vs-langchain",
+      "https://www.statsig.com/perspectives/llamaindex-vs-langchain-rag",
+      "https://amitkoth.com/langchain-llamaindex-comparison/",
+      "https://www.leanware.co/insights/langchain-vs-llamaindex-key-differences-use-cases",
+      "https://smartdev.com/langchain-vs-llamaindex-fintech-ai/",
+      "https://www.projectpro.io/article/langchain-vs-llamaindex/1036",
+      "https://www.datacamp.com/blog/langchain-vs-llamaindex"
+    ],
+    "fetched_count": 5,
+    "validated_count": 5
+  }
+}

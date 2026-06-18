@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-01-25T12:36:49.392037",
+  "agent": "ResearchAgent",
+  "event": "state_validated_source_4",
+  "data": {
+    "url": "https://kanerika.com/blogs/langchain-vs-llamaindex/",
+    "title": "LangChain vs LlamaIndex \u2013 2026 Comparison",
+    "credibility_score": 0.5,
+    "key_insights": [
+      "The article claims to compare LangChain and LlamaIndex",
+      "The title suggests a future-oriented comparison (2026)"
+    ]
+  }
+}

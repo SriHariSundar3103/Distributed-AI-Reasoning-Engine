@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-01-25T12:35:21.454260",
+  "agent": "ResearchAgent",
+  "event": "tool_web_search",
+  "data": {
+    "queries": [
+      "LangChain vs LlamaIndex",
+      "LangChain vs LlamaIndex Detailed performance metrics comparing LangChain and LlamaIndex across various use cases",
+      "LangChain vs LlamaIndex Long-term maintenance and community support projections for both frameworks",
+      "LangChain vs LlamaIndex Integration capabilities with emerging AI technologies beyond current LLMs"
+    ]
+  }
+}

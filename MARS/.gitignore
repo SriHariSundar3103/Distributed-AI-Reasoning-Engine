@@ -1,0 +1,28 @@
+# Python internals
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables (CRITICAL)
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs and Debugging
+# logs/ (Included per user request)
+*.log
+
+# Project Outputs (Generated Reports)
+# outputs/ (Included per user request for examples)
+
+# Agent/System Artifacts
+.gemini/
+.DS_Store
+Thumbs.db

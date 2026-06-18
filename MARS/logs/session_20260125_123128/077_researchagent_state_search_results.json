@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-01-25T12:38:17.827324",
+  "agent": "ResearchAgent",
+  "event": "state_search_results",
+  "data": {
+    "total_found": 20,
+    "unique_urls": [
+      "https://www.digitalocean.com/community/tutorials/llamaindex-vs-langchain-for-deep-learning",
+      "https://www.analyticsvidhya.com/blog/2024/11/langchain-vs-llamaindex/",
+      "https://www.ibm.com/think/topics/llamaindex-vs-langchain",
+      "https://xenoss.io/blog/langchain-langgraph-llamaindex-llm-frameworks",
+      "https://www.zenml.io/blog/llamaindex-vs-langchain",
+      "https://www.statsig.com/perspectives/llamaindex-vs-langchain-rag",
+      "https://www.linkedin.com/posts/piyush-ranjan-9297a632_langchain-vs-llamaindex-which-one-should-activity-7325361180217065472-Ujfm",
+      "https://www.leanware.co/insights/langchain-vs-llamaindex-key-differences-use-cases",
+      "https://www.projectpro.io/article/langchain-vs-llamaindex/1036",
+      "https://www.linkedin.com/posts/ujjyainimitra_langchain-vs-llamaindex-activity-7413068883055804416-RiuJ"
+    ],
+    "fetched_count": 7,
+    "validated_count": 7
+  }
+}

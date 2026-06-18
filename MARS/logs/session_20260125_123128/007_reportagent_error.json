@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-01-25T12:39:22.082854",
+  "agent": "ReportAgent",
+  "event": "error",
+  "data": {
+    "error": "Not enough horizontal space to render a single character",
+    "context": "pdf_generation"
+  }
+}

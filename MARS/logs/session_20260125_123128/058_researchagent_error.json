@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-01-25T12:36:12.428180",
+  "agent": "ResearchAgent",
+  "event": "error",
+  "data": {
+    "error": "HTTP 403: https://sabaraheem357.medium.com/langchain-vs-llamaindex-which-python-framework-wins-in-2025-2d590d4c29dd?source=rss------technology-5",
+    "context": "fetch",
+    "url": "https://sabaraheem357.medium.com/langchain-vs-llamaindex-which-python-framework-wins-in-2025-2d590d4c29dd?source=rss------technology-5"
+  }
+}

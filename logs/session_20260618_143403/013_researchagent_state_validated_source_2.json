@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-06-18T14:36:38.308717",
+  "agent": "ResearchAgent",
+  "event": "state_validated_source_2",
+  "data": {
+    "url": "https://www.reddit.com/r/LangChain/comments/1ojwl1y/new_to_langchain_agents_langchain_vs_langgraph",
+    "title": "Reddit - Please wait for verification",
+    "credibility_score": 0.3,
+    "key_insights": []
+  }
+}

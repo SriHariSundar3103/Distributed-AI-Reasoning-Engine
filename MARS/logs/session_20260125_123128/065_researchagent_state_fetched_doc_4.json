@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-01-25T12:36:49.369841",
+  "agent": "ResearchAgent",
+  "event": "state_fetched_doc_4",
+  "data": {
+    "url": "https://www.techaheadcorp.com/blog/top-agent-frameworks/",
+    "title": "Top Agent Frameworks: LangChain vs LlamaIndex vs AutoGen vs CrewAI",
+    "content_preview": "Top Agent Frameworks: LangChain vs LlamaIndex vs AutoGen vs CrewAI\nAI CoE\nCase Studies\nServices\nIncubating a culture of innovation & creativity\nAI & ML\nCloud & DevSecOps\nIoT & Custom Software\nMobile App\nWeb & Backend\nDesign & Consulting\nEnterprise Solution\nArtificial Intelligence\nInnovating businesses with digital technologies\nAgentic AI\nElevate your experience with AI services\nGEN AI\nUnleashing a New Era of Innovation\nAI Automation\nStreamline workflows with intelligent automation\nAI Consulting "
+  }
+}

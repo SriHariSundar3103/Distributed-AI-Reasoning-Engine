@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-01-25T12:34:48.290714",
+  "agent": "ResearchAgent",
+  "event": "state_fetched_doc_3",
+  "data": {
+    "url": "https://www.statsig.com/perspectives/llamaindex-vs-langchain-rag",
+    "title": "LlamaIndex vs LangChain: RAG framework differences",
+    "content_preview": "LlamaIndex vs LangChain: RAG framework differences\nProducts\nSolutions\nResources\nDocs\nPricing\nSign In\nBook a Live Demo\nProducts\nSolutions\nResources\nPRODUCTS\nExperimentation\nFeature Flags\nProduct Analytics\nSession Replay\nWeb Analytics\nInfra Analytics\nMarketing Experiments\nPLATFORM\nWarehouse Native\nInfrastructure\nSDKs\nIntegrations\nROLES\nEngineering\nDev Ops\nData Science\nProduct Management\nINDUSTRIES\nGaming\nB2B Saas\nE-Commerce\nBlog\nCustomer Stories\nPartner Program\nProduct Updates\nSupport\nStartup Prog"
+  }
+}

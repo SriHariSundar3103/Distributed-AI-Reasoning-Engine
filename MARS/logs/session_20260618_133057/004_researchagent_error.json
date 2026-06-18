@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-06-18T13:31:04.593966",
+  "agent": "ResearchAgent",
+  "event": "error",
+  "data": {
+    "error": "HTTP 403: https://medium.com/@tahirbalarabe2/%EF%B8%8Flangchain-vs-langgraph-a-comparative-analysis-ce7749a80d9c",
+    "context": "fetch",
+    "url": "https://medium.com/@tahirbalarabe2/%EF%B8%8Flangchain-vs-langgraph-a-comparative-analysis-ce7749a80d9c"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-06-18T14:34:03.226780",
+  "agent": "ResearchAgent",
+  "event": "tool_web_search",
+  "data": {
+    "queries": [
+      "LangChain vs LangGraph"
+    ]
+  }
+}

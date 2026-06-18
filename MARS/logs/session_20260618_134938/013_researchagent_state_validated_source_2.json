@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-06-18T13:49:50.141501",
+  "agent": "ResearchAgent",
+  "event": "state_validated_source_2",
+  "data": {
+    "url": "https://github.com/resources/articles/what-are-ai-agents",
+    "title": "What are AI agents? \u00b7 GitHub",
+    "credibility_score": 0.3,
+    "key_insights": []
+  }
+}

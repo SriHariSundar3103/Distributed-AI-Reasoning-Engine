@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-06-18T13:30:58.002354",
+  "agent": "ResearchAgent",
+  "event": "start",
+  "data": {
+    "topic": "LangChain vs Lang graph",
+    "iteration": 0
+  }
+}

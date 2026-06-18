@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-06-18T13:38:03.739469",
+  "agent": "ResearchAgent",
+  "event": "state_fetched_doc_0",
+  "data": {
+    "url": "https://aws.amazon.com/what-is/ai-agents",
+    "title": "What are AI Agents?- Agents in Artificial Intelligence Explained - AWS",
+    "content_preview": "What are AI Agents?- Agents in Artificial Intelligence Explained - AWS\nSkip to main content\nWhat are AI Agents?\nCreate an AWS Account\nPage topics\nWhat are AI Agents?\nWhat are the key principles that define AI agents?\nWhat are the benefits of using AI agents?\nWhat are the key components of AI agent architecture?\nHow does an AI agent work?\nWhat are the types of AI agents?\nWhat are the challenges of using AI agents?\nHow can AWS help with your AI agent requirements?\nWhat are AI Agents?\nAn artificial"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-01-25T12:31:28.712785",
+  "agent": "ResearchAgent",
+  "event": "tool_web_search",
+  "data": {
+    "queries": [
+      "LangChain vs LlamaIndex"
+    ]
+  }
+}

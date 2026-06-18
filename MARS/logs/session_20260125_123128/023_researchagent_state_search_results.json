@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-01-25T12:33:21.155402",
+  "agent": "ResearchAgent",
+  "event": "state_search_results",
+  "data": {
+    "total_found": 20,
+    "unique_urls": [
+      "https://stackoverflow.com/questions/76990736/differences-between-langchain-llamaindex",
+      "https://www.digitalocean.com/community/tutorials/llamaindex-vs-langchain-for-deep-learning",
+      "https://community.latenode.com/t/which-framework-should-i-choose-for-rag-development-langchain-vs-llamaindex/39107",
+      "https://www.analyticsvidhya.com/blog/2024/11/langchain-vs-llamaindex/",
+      "https://www.ibm.com/think/topics/llamaindex-vs-langchain",
+      "https://www.zenml.io/blog/llamaindex-vs-langchain",
+      "https://dev.to/naresh_007/langchain-vs-llamaindex-the-right-framework-for-the-job-not-the-hype-40jb",
+      "https://www.statsig.com/perspectives/llamaindex-vs-langchain-rag",
+      "https://www.datacamp.com/blog/langchain-vs-llamaindex",
+      "https://youssefh.substack.com/p/langchain-vs-llamaindex-a-detailed"
+    ],
+    "fetched_count": 5,
+    "validated_count": 5
+  }
+}

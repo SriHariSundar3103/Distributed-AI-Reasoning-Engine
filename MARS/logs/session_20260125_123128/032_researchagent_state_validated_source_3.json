@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-01-25T12:33:21.185650",
+  "agent": "ResearchAgent",
+  "event": "state_validated_source_3",
+  "data": {
+    "url": "https://dev.to/naresh_007/langchain-vs-llamaindex-the-right-framework-for-the-job-not-the-hype-40jb",
+    "title": "LangChain vs. LlamaIndex: The Right Framework for the Job, Not the\u00a0Hype. - DEV Community",
+    "credibility_score": 0.7,
+    "key_insights": [
+      "LangChain is suitable for fast prototyping and experiments",
+      "LlamaIndex is built for industry-grade, scalable use cases",
+      "Some developers use both: LangChain for rapid iteration, LlamaIndex for production"
+    ]
+  }
+}

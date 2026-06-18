@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-06-18T13:33:30.075831",
+  "agent": "ResearchAgent",
+  "event": "state_validated_source_1",
+  "data": {
+    "url": "https://duplocloud.com/blog/langchain-vs-langgraph",
+    "title": "LangChain vs. LangGraph: A Developer\u2019s Guide to Choosing Your AI Workflow - DuploCloud",
+    "credibility_score": 0.3,
+    "key_insights": []
+  }
+}

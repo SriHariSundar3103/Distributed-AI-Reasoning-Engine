@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-06-18T13:49:50.133154",
+  "agent": "ResearchAgent",
+  "event": "state_validated_source_0",
+  "data": {
+    "url": "https://aws.amazon.com/what-is/ai-agents",
+    "title": "What are AI Agents?- Agents in Artificial Intelligence Explained - AWS",
+    "credibility_score": 0.3,
+    "key_insights": []
+  }
+}

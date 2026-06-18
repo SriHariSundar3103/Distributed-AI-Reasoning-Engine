@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-01-25T12:38:17.864212",
+  "agent": "ResearchAgent",
+  "event": "state_validated_source_2",
+  "data": {
+    "url": "https://www.projectpro.io/article/langchain-vs-llamaindex/1036",
+    "title": "Langchain vs LlamaIndex - A Detailed Comparison",
+    "credibility_score": 0.7,
+    "key_insights": [
+      "Provides a detailed comparison of LangChain and LlamaIndex",
+      "Covers core functionalities, data indexing, customization, and use cases",
+      "Includes expert opinion from a Generative AI Engineer"
+    ]
+  }
+}

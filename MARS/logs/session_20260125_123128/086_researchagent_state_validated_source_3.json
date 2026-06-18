@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-01-25T12:38:17.868396",
+  "agent": "ResearchAgent",
+  "event": "state_validated_source_3",
+  "data": {
+    "url": "https://www.statsig.com/perspectives/llamaindex-vs-langchain-rag",
+    "title": "LlamaIndex vs LangChain: RAG framework differences",
+    "credibility_score": 0.7,
+    "key_insights": [
+      "Compares LlamaIndex and LangChain for RAG implementations",
+      "Discusses the importance of RAG for improving LLM knowledge",
+      "Promises to provide practical steps for building and evaluating RAG pipelines"
+    ]
+  }
+}

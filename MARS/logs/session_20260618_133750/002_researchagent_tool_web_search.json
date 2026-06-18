@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-06-18T13:37:50.413104",
+  "agent": "ResearchAgent",
+  "event": "tool_web_search",
+  "data": {
+    "queries": [
+      "AI Agents"
+    ]
+  }
+}

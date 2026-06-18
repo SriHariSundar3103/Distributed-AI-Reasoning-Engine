@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-06-18T13:38:03.732818",
+  "agent": "ResearchAgent",
+  "event": "state_search_results",
+  "data": {
+    "total_found": 5,
+    "unique_urls": [
+      "https://www.bcg.com/capabilities/artificial-intelligence/ai-agents",
+      "https://github.com/resources/articles/what-are-ai-agents",
+      "https://cloud.google.com/discover/what-are-ai-agents",
+      "https://www.creatio.com/glossary/ai-agents-examples",
+      "https://aws.amazon.com/what-is/ai-agents"
+    ],
+    "fetched_count": 4,
+    "validated_count": 4
+  }
+}

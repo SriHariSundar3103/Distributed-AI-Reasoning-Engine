@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-01-25T12:34:14.581332",
+  "agent": "ResearchAgent",
+  "event": "error",
+  "data": {
+    "error": "HTTP 403: https://smartdev.com/langchain-vs-llamaindex-fintech-ai/",
+    "context": "fetch",
+    "url": "https://smartdev.com/langchain-vs-llamaindex-fintech-ai/"
+  }
+}

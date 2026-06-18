@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-06-18T13:33:30.072329",
+  "agent": "ResearchAgent",
+  "event": "state_fetched_doc_3",
+  "data": {
+    "url": "https://www.geeksforgeeks.org/artificial-intelligence/langchain-vs-langgraph",
+    "title": "LangChain vs. LangGraph - GeeksforGeeks",
+    "content_preview": "LangChain vs. LangGraph - GeeksforGeeks\nCourses\nTutorials\nPractice\nJobs\nArtificial Intelligence\nInterview Questions\nProject Ideas\nSearch Algorithms\nLocal Search Algorithm\nGenerative AI\nData Science\nMachine Learning\nDeep Learning\nML-Projects\nRobotics\nShare Your Experiences\nIntroduction to AI\nWhat is Artificial Intelligence (AI)\nTypes of Artificial Intelligence (AI)\nTypes of AI Based on Functionalities\nAgents in AI\nArtificial intelligence vs Machine Learning vs Deep Learning\nProblem Solving in Art"
+  }
+}

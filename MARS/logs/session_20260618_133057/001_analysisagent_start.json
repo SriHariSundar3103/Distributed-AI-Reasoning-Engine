@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-06-18T13:33:30.090276",
+  "agent": "AnalysisAgent",
+  "event": "start",
+  "data": {
+    "topic": "LangChain vs Lang graph",
+    "iteration": 0,
+    "source_count": 4
+  }
+}

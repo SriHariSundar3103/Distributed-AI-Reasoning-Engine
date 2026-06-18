@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-06-18T14:37:12.553317",
+  "agent": "ReportAgent",
+  "event": "start",
+  "data": {
+    "topic": "LangChain vs LangGraph",
+    "iteration": 1
+  }
+}

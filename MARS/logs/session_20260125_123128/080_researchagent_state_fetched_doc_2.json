@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-01-25T12:38:17.833519",
+  "agent": "ResearchAgent",
+  "event": "state_fetched_doc_2",
+  "data": {
+    "url": "https://www.projectpro.io/article/langchain-vs-llamaindex/1036",
+    "title": "Langchain vs LlamaIndex - A Detailed Comparison",
+    "content_preview": "Langchain vs LlamaIndex - A Detailed Comparison\nLangchain vs LlamaIndex - A Detailed Comparison\nLangChain vs LlamaIndex-Which framework is right for your AI project? Discover key differences, performance, and use cases to choose the best framework\nGet Solved Code + Solutions\nView Artificial Intelligence Projects\nLast Updated: 28 Oct 2024\n|\u00a0 BY Nishtha\nThis blog is your go-to guide to understanding the distinct capabilities of LangChain vs. LlamaIndex - two excellent frameworks in artificial inte"
+  }
+}

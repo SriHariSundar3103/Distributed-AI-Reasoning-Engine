@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-06-18T13:33:30.073001",
+  "agent": "ResearchAgent",
+  "event": "state_validated_source_0",
+  "data": {
+    "url": "https://www.truefoundry.com/blog/langchain-vs-langgraph",
+    "title": "LangChain vs LangGraph: Compare Features & Use Cases",
+    "credibility_score": 0.3,
+    "key_insights": []
+  }
+}

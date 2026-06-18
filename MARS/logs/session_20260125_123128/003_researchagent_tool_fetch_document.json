@@ -1,0 +1,8 @@
+{
+  "timestamp": "2026-01-25T12:31:31.883940",
+  "agent": "ResearchAgent",
+  "event": "tool_fetch_document",
+  "data": {
+    "url_count": 5
+  }
+}

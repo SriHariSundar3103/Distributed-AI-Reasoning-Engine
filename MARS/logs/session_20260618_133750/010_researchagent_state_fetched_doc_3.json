@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-06-18T13:38:03.752119",
+  "agent": "ResearchAgent",
+  "event": "state_fetched_doc_3",
+  "data": {
+    "url": "https://cloud.google.com/discover/what-are-ai-agents",
+    "title": "What are AI agents? Definition, examples, and types | Google Cloud",
+    "content_preview": "What are AI agents? Definition, examples, and types | Google Cloud\nWhat is an AI agent?\nLast Updated: 04/02/2026\nAI agents are software systems that use AI to pursue goals and complete tasks on behalf of users. They show reasoning, planning, and memory and have a level of autonomy to make decisions, learn, and adapt.\nTheir capabilities are made possible in large part by the multimodal capacity of generative AI and AI foundation models. AI agents can process multimodal information like text, voic"
+  }
+}

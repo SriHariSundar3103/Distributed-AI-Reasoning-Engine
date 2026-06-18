@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-06-18T13:37:54.906362",
+  "agent": "ResearchAgent",
+  "event": "error",
+  "data": {
+    "error": "HTTP 403: https://www.bcg.com/capabilities/artificial-intelligence/ai-agents",
+    "context": "fetch",
+    "url": "https://www.bcg.com/capabilities/artificial-intelligence/ai-agents"
+  }
+}

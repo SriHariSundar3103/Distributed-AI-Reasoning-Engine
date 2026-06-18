@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-01-25T12:38:17.829777",
+  "agent": "ResearchAgent",
+  "event": "state_fetched_doc_0",
+  "data": {
+    "url": "https://www.analyticsvidhya.com/blog/2024/11/langchain-vs-llamaindex/",
+    "title": "LangChain vs LlamaIndex: Comparative Guide",
+    "content_preview": "LangChain vs LlamaIndex: Comparative Guide\nMaster Generative AI with 10+ Real-world Projects in 2025!\nd\n:\nh\n:\nm\n:\ns\nDownload Projects\nInterview Prep\nCareer\nGenAI\nPrompt Engg\nChatGPT\nLLM\nLangchain\nRAG\nAI Agents\nMachine Learning\nDeep Learning\nGenAI Tools\nLLMOps\nPython\nNLP\nSQL\nAIML Projects\nReading list\nIntroduction to Generative AI\nWhat is Generative AI?\nIntroduction to Generative AI applications\nOverview of generative AI applications and their impact\nNo-code Generative AI app development\nIntroduc"
+  }
+}

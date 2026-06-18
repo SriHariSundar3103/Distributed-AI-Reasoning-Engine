@@ -1,0 +1,8 @@
+{
+  "timestamp": "2026-06-18T13:55:00.784373",
+  "agent": "ResearchAgent",
+  "event": "tool_validate_sources",
+  "data": {
+    "doc_count": 4
+  }
+}

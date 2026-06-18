@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-01-25T12:38:17.871060",
+  "agent": "ResearchAgent",
+  "event": "state_validated_source_4",
+  "data": {
+    "url": "https://www.zignuts.com/blog/langchain-vs-llamaindex",
+    "title": "LangChain vs LlamaIndex: Best Framework for RAG & AI Apps",
+    "credibility_score": 0.6,
+    "key_insights": [
+      "Compares LangChain and LlamaIndex architectures and use cases",
+      "Provides technical deep dives into both frameworks",
+      "Offers decision framework for developers choosing between the two"
+    ]
+  }
+}

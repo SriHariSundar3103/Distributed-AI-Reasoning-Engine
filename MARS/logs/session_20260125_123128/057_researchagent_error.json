@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-01-25T12:36:01.741762",
+  "agent": "ResearchAgent",
+  "event": "error",
+  "data": {
+    "error": "HTTP 403: https://www.datacamp.com/blog/langchain-vs-llamaindex",
+    "context": "fetch",
+    "url": "https://www.datacamp.com/blog/langchain-vs-llamaindex"
+  }
+}

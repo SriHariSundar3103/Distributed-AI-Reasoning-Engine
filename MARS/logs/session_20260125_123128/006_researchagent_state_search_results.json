@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-01-25T12:32:01.585793",
+  "agent": "ResearchAgent",
+  "event": "state_search_results",
+  "data": {
+    "total_found": 5,
+    "unique_urls": [
+      "https://www.analyticsvidhya.com/blog/2024/11/langchain-vs-llamaindex/",
+      "https://www.ibm.com/think/topics/llamaindex-vs-langchain",
+      "https://www.statsig.com/perspectives/llamaindex-vs-langchain-rag",
+      "https://www.datacamp.com/blog/langchain-vs-llamaindex",
+      "https://kanerika.com/blogs/langchain-vs-llamaindex/"
+    ],
+    "fetched_count": 4,
+    "validated_count": 4
+  }
+}
