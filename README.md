@@ -1,4 +1,4 @@
-# Multi-Agent Research System
+# Distributed AI Reasoning Engine
 
 A production-ready multi-agent system that researches technical topics and generates structured analysis reports using LangGraph and Claude/Gemini.
 
